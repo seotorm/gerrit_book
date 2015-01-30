@@ -7,3 +7,12 @@ Michael Fagan (software designer)은 정밀검사를 개발했다.
 Advances in Software Inspections, July 1986, IEEE Transactions on Software Engineering, Vol. SE-12, No. 7, Page 744-751
 
 "Design and Code inspections to reduce errors in program development". IBM Systems Journal 15
+
+Kolawa, Adam; Huizinga, Dorota (2007). Automated Defect Prevention: Best Practices in Software Management. Wiley-IEEE Computer Society Press. p. 260. 
+--> 코드리뷰의 분류가 나옴.
+
+formal code review == 절차적 코드리뷰
+
+동료검토? 코드리뷰의 장점은 엄청나다. 단점을 희석시키고 장점만 취할수 있는 방법은 없을까?
+
+다른사람이 당신의 코드를 리뷰해준다면 당신은 보다 나은 코드를 생산하게 된다.
